@@ -7,5 +7,10 @@ Smart Dumbbell
 
 컴파일 방법
 SmartDumbell : gcc main.c pwm.c dma.c mailbox.c ws2811.c board_info.c -lwiringPi -lm
+
 other : gcc <filename>
+
+
+
+
 
